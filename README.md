@@ -1,4 +1,4 @@
-# [Cienciasdacomputacao-unifeg]https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101
+# [Cienciasdacomputacao-unifeg](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?Ciencia-da-Computacao&codigocurso=101)
 todo conteúdo desenvolvido durante curso
 Duração do Curso: 8 semestres.
 Carga Horária: 3220 h/a
